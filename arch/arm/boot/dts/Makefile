@@ -650,6 +650,7 @@ dtb-$(CONFIG_SOC_IMX6UL) += \
 	imx6ul-tx6ul-0010.dtb \
 	imx6ul-tx6ul-0011.dtb \
 	imx6ul-tx6ul-mainboard.dtb \
+	imx6ul-ccimx6ul-GIHMM-GSP_FPGA-UART.dtb\
 	imx6ul-ccimx6ul-mfg.dtb \
 	imx6ul-ccimx6ul-mfg-rf.dtb \
 	imx6ul-ccimx6ulsbc.dtb \
